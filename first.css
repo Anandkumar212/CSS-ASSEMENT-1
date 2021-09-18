@@ -1,0 +1,42 @@
+h1 {
+    color :red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-weight: bolder;
+   
+}
+h2{
+    color:tomato;
+    font-style: italic;
+}
+ol{
+    color:brown;
+}
+.text{
+    text-decoration: line-through;
+}
+.style{
+    background-color: yellow;
+    font-weight: bolder;
+}
+.italic{
+    font-style: italic;
+    text-decoration :underline brown;
+}
+.head{
+    color: chartreuse;
+    
+}
+ul{
+    color:brown;
+    letter-spacing: 1mm;
+}
+p{
+    color: brown;
+
+}
+.link{
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+}
