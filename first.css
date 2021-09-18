@@ -9,6 +9,12 @@ h2{
     color:tomato;
     font-style: italic;
 }
+.img{
+    
+    width:10%;
+    border-radius:5px ;
+    border-style: solid;
+}
 ol{
     color:brown;
 }
@@ -29,7 +35,11 @@ ol{
 }
 ul{
     color:brown;
-    letter-spacing: 1mm;
+    letter-spacing: 2mm;
+}
+.class1{
+    background-color: yellow ;
+    font-weight: bolder;
 }
 p{
     color: brown;
